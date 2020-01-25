@@ -4,7 +4,6 @@
 #
 %define		pdir	Archive
 %define		pnam	Extract
-%include	/usr/lib/rpm/macros.perl
 Summary:	Archive::Extract - A generic archive extracting mechanism
 #Summary(pl.UTF-8):	
 Name:		perl-Archive-Extract
