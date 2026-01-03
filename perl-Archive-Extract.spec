@@ -7,13 +7,13 @@
 Summary:	Archive::Extract - A generic archive extracting mechanism
 Summary(pl.UTF-8):	Archive::Extract - ogólny mechanizm rozpakowywania archiwów
 Name:		perl-Archive-Extract
-Version:	0.86
+Version:	0.88
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Archive/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f586017fb17bec26b56c7ff7ea0307fa
+# Source0-md5:	371b449317ac009a4deed6577da85b8c
 URL:		https://metacpan.org/release/Archive-Extract
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
